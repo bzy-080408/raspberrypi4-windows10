@@ -21,3 +21,18 @@ step6
 输入S经行部署镜像
 step7
 待应用镜像完成之后输入E退出
+How to use:
+step1
+New partition, 128mb, formatted as fat32
+step2
+New partition, remaining size, formatted as NTFS
+step3
+Download, right-click to run as an administrator
+step4
+Select a new NTFS partition disc character
+step5
+Select a new FAT32 partition disc
+step6
+Enter s line deployment mirror
+step7
+Enter E exit after the application image is complete
