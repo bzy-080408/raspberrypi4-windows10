@@ -1,12 +1,12 @@
 # raspberrypi4-windows10
 run windows10 arm on raspberrypi4
-# 以下是中文：
+# 以下是中文（Chinese）：
  这是一个树莓派4运行win10的一键包，不稳定，只有windows版，能用中文版就别用英文版，因本人英文
  不好，所以我使用翻译软件处理的，它是一个批处理（bat）文件，双击运行即可。还有要请大家手动分区。
- Here are the English:
+# Here are the English（英文）:
  This is a Raspberry Pi 4 running win10 one-click package, unstable, only the windows     version, can use the Chinese version do not use the English version, because I am English
  Not good, so I use translation software to process, it is a batch (bat) file, double-    click to run can be.
-# 使用方法：
+# 使用方法（Chinese）：
  step1
  新建分区，128mb，格式化为fat32
  
@@ -28,7 +28,7 @@ run windows10 arm on raspberrypi4
  step7
  待应用镜像完成之后输入E退出
  
-# How to use:
+# How to use（英语）:
  
  step1
  New partition, 128mb, formatted as fat32
