@@ -27,7 +27,8 @@ run windows10 arm on raspberrypi4
  
  step7
  待应用镜像完成之后输入E退出
-#How to use:
+ 
+# How to use:
  
  step1
  New partition, 128mb, formatted as fat32
