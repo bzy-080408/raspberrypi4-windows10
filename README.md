@@ -50,3 +50,6 @@ run windows10 arm on raspberrypi4
  
  step7
  Enter E exit after the application image is complete
+# 注意（Attention）：
+ 此项目与pi64.win和WOR没有任何关系
+ This project has nothing to do with pi64.win and WOR
