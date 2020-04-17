@@ -51,5 +51,8 @@ run windows10 arm on raspberrypi4
  step7
  Enter E exit after the application image is complete
 # 注意（Attention）：
- 此项目与pi64.win和WOR没有任何关系
+ 1.此项目与pi64.win和WOR没有任何关系
  This project has nothing to do with pi64.win and WOR
+
+ 2.镜像请到uupdump.ml网站下载
+ the image please go to uupdump.ml to download
