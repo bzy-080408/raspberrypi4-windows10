@@ -1,4 +1,4 @@
-# raspberrypi4-windows10
+# raspberrypi4 windows10
 run windows10 arm on raspberrypi4
 # 以下是中文（Chinese）：
  这是一个树莓派4运行win10的一键包，不稳定，只有windows版，能用中文版就别用英文版，因本人英文
