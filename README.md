@@ -37,3 +37,6 @@
 
  2.镜像请到uupdump.ml网站下载
  the image please go to uupdump.ml to download
+ 
+ # 下载 （download）
+ https://github.com/bzy-080408/raspberrypi4-windows10/releases/download/1.1.4/zh-cn.BAT
