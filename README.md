@@ -40,3 +40,6 @@
  
  # 下载 （download）
  https://github.com/bzy-080408/raspberrypi4-windows10/releases/download/1.1.4/zh-cn.BAT
+
+# 公告：
+接下来可能不会再有任何的更新！！！！！
